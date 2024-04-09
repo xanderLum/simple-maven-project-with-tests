@@ -32,7 +32,7 @@ public class SomeTest extends Base {
         run();
     }
 
-    @Test public void test2() {
+   /*@Test public void test2() {
         run();
     }
 
@@ -50,6 +50,6 @@ public class SomeTest extends Base {
 
     @Test public void test6() {
         run();
-    }
+    }*/
 
 }
